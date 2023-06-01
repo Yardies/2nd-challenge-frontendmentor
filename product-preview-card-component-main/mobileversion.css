@@ -1,0 +1,15 @@
+@media screen and (max-width:375px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .desecription{
+        width: 344px;
+        height: 371px;
+    }
+    .desktopimage{
+        content: url(./images/image-product-mobile.jpg);
+        width: 344px;
+        height: 371px;
+    }
+}
